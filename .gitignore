@@ -1,0 +1,6 @@
+vangogh2photo_train/
+vangogh2photo_test/
+monet2photo_train/
+monet2photo_test/
+data/
+model_save/
